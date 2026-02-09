@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "woofie.json"
+  ],
+  "homeserver_url": "https://matrix.doesnotexist.club"
+}
